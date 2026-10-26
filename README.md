@@ -36,3 +36,6 @@ http://127.0.0.1:5000
 1.048.576 baytlık test dosyası dört parça halinde başarıyla indirilmiş ve tek dosyada birleştirilmiştir.
 
 Not: İlerleme çubukları anlık indirme yüzdesini değil, parçaların tamamlanma durumunu gösterir.
+## Uygulama Ekran Görüntüsü
+
+![Proje 7 Görsel Arayüz](proje7-gorsel.png)
